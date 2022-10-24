@@ -3,10 +3,11 @@
     "artifacts": [
         {
             "id": "community-login",
-            "avatar": "Login",
+            "avatar": "LO",
             "bgcolor": "#FF971F",
             "title": "Login",
             "subheader": "Community Login",
+            "subNavigations": [],
             "version": 1,
             "description": "Configure Login And Account Links",
             "adminFeatures": "Configure Login And Account Links",
@@ -15,7 +16,7 @@
             "uiFeatures": "Login and Account Information.",
             "uiFiles": [
                 {
-                    "key": "CSS",
+                    "key": "css",
                     "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-login/community-login-ui/v1/build/static/css/main.0621f144.css"
                 },
                 {
@@ -31,10 +32,11 @@
         },
         {
             "id": "community-events-widget",
-            "avatar": "Events",
+            "avatar": "Event",
             "bgcolor": "#FF0000",
             "title": "Events",
             "subheader": "Calendar And Events",
+            "subNavigations": [],
             "version": 1,
             "description": "Calendar And Events",
             "adminFeatures": "Configure Events",
@@ -43,7 +45,7 @@
             "uiFeatures": "",
             "uiFiles": [
                 {
-                    "key": "CSS",
+                    "key": "css",
                     "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-events-widget/community-events-widget-ui/v1/build/static/css/main.0818273c.css"
                 },
                 {
@@ -55,16 +57,17 @@
         },
         {
             "id": "community-tabs",
-            "avatar": "SideNav",
+            "avatar": "SN",
             "bgcolor": "#2F2EFF",
             "title": "Side Navigation",
             "subheader": "Configure Navigation and Page Content",
+            "subNavigations": [],
             "version": 1,
             "description": "Configure Navigation and Page Content",
             "adminFeatures": "Configure Events",
             "adminFiles": [
                 {
-                    "key": "CSS",
+                    "key": "css",
                     "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-tabs/community-tabs-admin/v1/build/static/css/main.0d7ca4f1.css"
                 },
                 {
@@ -75,7 +78,7 @@
             "uiFeatures": "",
             "uiFiles": [
                 {
-                    "key": "CSS",
+                    "key": "css",
                     "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-tabs/community-tabs-ui/v1/build/static/css/main.a86066a5.css"
                 },
                 {
