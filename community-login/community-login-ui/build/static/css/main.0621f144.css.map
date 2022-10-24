@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0621f144.css","mappings":"AAAA,mBACI,cACJ,CAEA,yBACG,mBACC,cACD,CACH","sources":["index.css"],"sourcesContent":[".account-info > span {\r\n    font-size: 40px;\r\n} \r\n  \r\n@media all and (max-width:576px) {\r\n   .account-info > span {\r\n    font-size: 35px;\r\n   } \r\n}\r\n"],"names":[],"sourceRoot":""}
