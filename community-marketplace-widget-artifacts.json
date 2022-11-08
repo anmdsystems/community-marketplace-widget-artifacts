@@ -17,40 +17,48 @@
             "uiFiles": [
                 {
                     "key": "css",
-                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-login/community-login-ui/v1/build/static/css/main.0621f144.css"
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-login/community-login-ui/v1/build/static/css/main.e52e75be.css"
                 },
                 {
                     "key": "js",
-                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-login/community-login-ui/v1/build/static/js/main.3bf38fc7.js"
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-login/community-login-ui/v1/build/static/js/main.af045933.js"
                 },
                 {
                     "key": "js",
-                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-login/community-login-ui/v1/build/static/js/787.b495746a.chunk.js"
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-login/community-login-ui/v1/build/static/js/27.0b493303.chunk.js"
                 }
             ],
             "createdBy": "Milind Date"
         },
         {
-            "id": "community-events-widget",
-            "avatar": "Event",
-            "bgcolor": "#FF0000",
-            "title": "Events",
-            "subheader": "Calendar And Events",
+            "id": "community-page-builder",
+            "avatar": "PB",
+            "bgcolor": "#FF971F",
+            "title": "Page Builder",
+            "subheader": "Page Builder",
             "subNavigations": [],
             "version": 1,
-            "description": "Calendar And Events",
-            "adminFeatures": "Configure Events",
+            "description": "Configure Single Page with Components",
+            "adminFeatures": "Configure Single Page with Components",
             "adminFiles": [
-            ],
-            "uiFeatures": "",
-            "uiFiles": [
                 {
                     "key": "css",
-                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-events-widget/community-events-widget-ui/v1/build/static/css/main.0818273c.css"
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-page-builder/community-page-builder-admin/v1/build/static/css/main.0cd95b5f.css"
                 },
                 {
                     "key": "js",
-                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-events-widget/community-events-widget-ui/v1/build/static/js/main.dbb71f2a.js"
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-page-builder/community-page-builder-admin/v1/build/static/js/main.efbfc419.js"
+                }
+            ],
+            "uiFeatures": "Page Builder.",
+            "uiFiles": [
+                {
+                    "key": "css",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-page-builder/community-page-builder-ui/v1/build/static/css/main.cb509929.css"
+                },
+                {
+                    "key": "js",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-page-builder/community-page-builder-ui/v1/build/static/js/main.77786e43.js"
                 }
             ],
             "createdBy": "Milind Date"
@@ -68,22 +76,22 @@
             "adminFiles": [
                 {
                     "key": "css",
-                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-tabs/community-tabs-admin/v1/build/static/css/main.ec68244c.css"
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-tabs/community-tabs-admin/v1/build/static/css/main.0cd95b5f.css"
                 },
                 {
                     "key": "js",
-                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-tabs/community-tabs-admin/v1/build/static/js/main.c387b132.js"
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-tabs/community-tabs-admin/v1/build/static/js/main.82d9bad9.js"
                 }
             ],
             "uiFeatures": "",
             "uiFiles": [
                 {
                     "key": "css",
-                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-tabs/community-tabs-ui/v1/build/static/css/main.a86066a5.css"
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-tabs/community-tabs-ui/v1/build/static/css/main.4f5b922f.css"
                 },
                 {
                     "key": "js",
-                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-tabs/community-tabs-ui/v1/build/static/js/main.406bc301.js"
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-tabs/community-tabs-ui/v1/build/static/js/main.49194425.js"
                 }
             ],
             "createdBy": "Milind Date"
