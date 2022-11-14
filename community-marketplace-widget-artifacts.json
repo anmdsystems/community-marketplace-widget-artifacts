@@ -5,7 +5,7 @@
             "id": "community-login",
             "avatar": "LO",
             "bgcolor": "#FF971F",
-            "scope": "Site",
+            "scope": "Header",
             "title": "Login",
             "subheader": "Community Login",
             "subNavigations": [],
