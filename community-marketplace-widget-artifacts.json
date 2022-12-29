@@ -111,7 +111,7 @@
         },
         {
             "id": "community-page-builder-2-col",
-            "avatar": "PB",
+            "avatar": "TC",
             "bgcolor": "#FF971F",
             "scope": "Page",
             "title": "Page Builder - Two Columns",
@@ -205,6 +205,42 @@
                 {
                     "key": "js",
                     "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-tabs/community-tabs-ui/v1/build/static/js/931.db1f6a3a.chunk.js"
+                }
+            ],
+            "createdBy": "Milind Date"
+        },
+        {
+            "id": "community-blogs",
+            "avatar": "TC",
+            "bgcolor": "#FF971F",
+            "scope": "Module",
+            "title": "Blogs",
+            "isModule" : false,
+            "dataScopedByUrl": false,
+            "subheader": "Blogs",
+            "subNavigations": [],
+            "version": 1,
+            "description": "Configure Blogs",
+            "adminFeatures": "Configure Blogs",
+            "adminFiles": [
+            ],
+            "uiFeatures": "Blogs",
+            "uiFiles": [
+                {
+                    "key": "css",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-blogs/community-blogs-ui/v1/build/static/css/main.1b61c47c.css"
+                },
+                {
+                    "key": "js",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-blogs/community-blogs-ui/v1/build/static/js/main.473e1707.js"
+                },
+                {
+                    "key": "media",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-blogs/community-blogs-ui/v1/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg"
+                },
+                {
+                    "key": "media",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-blogs/community-blogs-ui/v1/build/static/media/pmm-50-logo.93c9670f024b2fff8457.png"
                 }
             ],
             "createdBy": "Milind Date"
