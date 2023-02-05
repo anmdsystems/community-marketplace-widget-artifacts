@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcommunity_page_builder_2_col_ui=self.webpackChunkcommunity_page_builder_2_col_ui||[]).push([[466],{3466:function(u,e,_){_.r(e),_.d(e,{default:function(){return c.Kq}});var c=_(1419)}}]);

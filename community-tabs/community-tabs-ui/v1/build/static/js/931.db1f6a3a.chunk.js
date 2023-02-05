@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcommunity_tabs_ui=self.webpackChunkcommunity_tabs_ui||[]).push([[931],{2931:function(u,n,t){t.r(n),t.d(n,{default:function(){return i.in}});var i=t(4027)}}]);
