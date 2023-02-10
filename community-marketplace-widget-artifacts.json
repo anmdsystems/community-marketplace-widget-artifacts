@@ -253,8 +253,18 @@
             "title": "Blogs",
             "isModule" : true,
             "dataScopedByUrl": true,
+            "dataScopedApiUrl": "/baseapi",
             "subheader": "Blogs",
-            "subNavigations": [],
+            "subNavigations": [
+                {
+                    "key": "Blogs",
+                    "value": "/blog"
+                },
+                {
+                    "key": "BlogPosts",
+                    "value": "/blogpost"
+                }
+            ],
             "version": 1,
             "description": "Configure Blogs",
             "adminFeatures": "Configure Blogs",
