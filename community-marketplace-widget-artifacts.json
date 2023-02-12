@@ -257,12 +257,20 @@
             "subheader": "Blogs",
             "subNavigations": [
                 {
-                    "key": "Blogs",
-                    "value": "/blog"
+                    "key": "",
+                    "value": "Blogs"
                 },
                 {
-                    "key": "BlogPosts",
-                    "value": "/blogpost"
+                    "key": "[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}",
+                    "value": "Blogs/GUID0:{0}"
+                },
+                {
+                    "key": "[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}/BlogPosts",
+                    "value": "Blogs/GUID0:{0}/BlogPosts"
+                },
+                {
+                    "key": "BlogPosts/[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}",
+                    "value": "BlogPosts/GUID0:{0}"
                 }
             ],
             "version": 1,
