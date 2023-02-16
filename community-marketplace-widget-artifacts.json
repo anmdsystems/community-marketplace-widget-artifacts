@@ -269,8 +269,8 @@
                     "value": "Blogs/GUID0:{0}/BlogPosts"
                 },
                 {
-                    "key": "BlogPosts/[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}",
-                    "value": "BlogPosts/GUID0:{0}"
+                    "key": "[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}/BlogPosts/[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}",
+                    "value": "BlogPosts/GUID1:{0}"
                 }
             ],
             "version": 1,
@@ -287,6 +287,44 @@
                 }
             ],
             "uiFeatures": "Blogs",
+            "uiFiles": [
+            ],
+            "createdBy": "Milind Date"
+        },
+        {
+            "id": "community-events",
+            "avatar": "EV",
+            "bgcolor": "#EF971F",
+            "scope": "Page",
+            "title": "Events",
+            "isModule" : true,
+            "dataScopedByUrl": true,
+            "dataScopedApiUrl": "/baseapi",
+            "subheader": "Events",
+            "subNavigations": [
+                {
+                    "key": "",
+                    "value": "CommunityEvents"
+                },
+                {
+                    "key": "[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}",
+                    "value": "CommunityEvents/GUID0:{0}"
+                }
+            ],
+            "version": 1,
+            "description": "Configure Events",
+            "adminFeatures": "Configure Events",
+            "adminFiles": [
+                {
+                    "key": "css",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-events-widget/community-events-widget-admin/v1/build/static/css/main.378804b7.css"
+                },
+                {
+                    "key": "js",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-events-widget/community-events-widget-admin/v1/build/static/js/main.44cafd4a.js"
+                }
+            ],
+            "uiFeatures": "Events",
             "uiFiles": [
             ],
             "createdBy": "Milind Date"
