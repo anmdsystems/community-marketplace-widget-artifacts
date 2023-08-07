@@ -402,6 +402,43 @@
                 }
             ],
             "createdBy": "Milind Date"
+        },
+        {
+            "id": "community-voting",
+            "avatar": "CV",
+            "bgcolor": "#EA971F",
+            "scope": "Page",
+            "title": "Event Voting",
+            "isModule" : true,
+            "dataScopedByUrl": true,
+            "dataScopedApiUrl": "/baseapi/",
+            "subheader": "EventVoting",
+            "subNavigations": [],
+            "version": 1,
+            "description": "Configure Voting Events & Voters",
+            "adminFeatures": "Configure Voting Events & Voters",
+            "adminFiles": [
+                {
+                    "key": "css",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-event-voting/community-event-voting-admin/v1/build/static/css/main.f76d7703.css"
+                },
+                {
+                    "key": "js",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-event-voting/community-event-voting-admin/v1/build/static/js/main.0e9a3c40.js"
+                }
+            ],
+            "uiFeatures": "Event Voting",
+            "uiFiles": [
+                {
+                    "key": "css",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-event-voting/community-event-voting-ui/v1/build/static/css/main.fb18cfe8.css"
+                },
+                {
+                    "key": "js",
+                    "value": "https://raw.githubusercontent.com/anmdsystems/community-marketplace-widget-artifacts/main/community-event-voting/community-event-voting-ui/v1/build/static/js/main.9cff12ca.js"
+                }
+            ],
+            "createdBy": "Milind Date"
         }
     ]
 }
